@@ -26,8 +26,6 @@ WM: Hyprland
 
 As and when  these projects are brought to a ready state I will move them out of private.
 
-$projects
-
 # Multi point API interaction application
   Currently exploring the public API ecosystem to create a centralized multi-API endpoint for learning and experimentation.
   
