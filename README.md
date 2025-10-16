@@ -30,12 +30,13 @@ As and when  these projects are brought to a ready state I will move them out of
   Currently exploring the public API ecosystem to create a centralized multi-API endpoint for learning and experimentation.
   
   Particular interests:
+  ```
     - Open Bus Data API - Monitor local bus services; plan to display updates on an E Ink screen by my door.
     - Open Marine Data API - Track AliExpress shipments via maritime tracking.
     - OpenWeather API - Fetch weather data to enhance outfit planning.
     - FlightAware API - Track flights in real-time, useful for global shipment monitoring.
     - ExchangeRate API - Get real-time currency conversion rates for trips aborad.
-  
+  ```
   I am currently performing the planning, research and development to create a multi api application to deploy on my home network.
 
 # Home Lab / Network
