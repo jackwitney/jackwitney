@@ -22,6 +22,9 @@ WM: Hyprland
 "Opinionated. Efficient. Terminal Warrior"
 ```
 
+"A computer is like air conditioning – it becomes useless when you open Windows" - Linus Torvalds
+
+
 ### 🛠 Personal Projects & Experiments
 
 As and when  these projects are brought to a ready state I will move them out of private.
