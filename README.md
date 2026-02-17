@@ -1,7 +1,7 @@
 <!-- Jack Witney | Terminal-Style GitHub Profile -->
 <h1 align="center">👋 Welcome to Jack's Terminal</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,js,docker,git,vim" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,nix,bash,python,php,js,docker,git,vim" />
 </p>
 
 
